@@ -489,8 +489,8 @@ button {
 	height: 60px;
 	width: 60px;
 	position: fixed;
-	bottom: 20px;
-	right: 20px;
+	bottom: 100px;
+	right: 17px;
 	background-color: #1D123A;
 	border-radius: 50%;
 	overflow: hidden;
@@ -1269,7 +1269,7 @@ header .pt-lg-4 {
 	width: 76%;
 	margin: 0px auto;
 	position: relative;
-	bottom: 15%;
+	bottom: 0%;
 	transform: scale(1.3);
 }
 
