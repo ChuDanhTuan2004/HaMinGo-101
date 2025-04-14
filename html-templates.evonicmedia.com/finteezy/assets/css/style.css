@@ -2011,6 +2011,7 @@ footer .ms-0 ul {
 
 .Subpage_Hero {
 	position: relative;
+	margin: 5% 0%;
 }
 
 .Subpage_Hero::before {
@@ -2122,7 +2123,6 @@ footer .ms-0 ul {
 .Online figure {
 	width: 100%;
 	transform: scale(1.1);
-	bottom: 5%;
 	right: 10%;
 	height: 100%;
 }
